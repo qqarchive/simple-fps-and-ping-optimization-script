@@ -17,7 +17,7 @@ It automates various Windows system, memory, networking, privacy, and hardware-r
 
 - **RAM Optimization** – Automatically detects installed RAM and applies corresponding memory configurations.
 - **Gaming Optimization** – Configures Windows gaming priorities and system responsiveness.
-- **Network Optimization** – Applies selected TCP, DNS, adapter, and connectivity configurations.
+- **Network Optimization** – Applies selected TCP, DNS, adapter, UDP, and connectivity configurations.
 - **GPU Detection** – Automatically detects NVIDIA and AMD GPUs and applies supported vendor-specific configurations.
 - **Page File Configuration** – Offers optional RAM-based custom page file settings.
 - **System Optimization** – Configures selected Windows registry and system settings.
@@ -43,17 +43,17 @@ It automates various Windows system, memory, networking, privacy, and hardware-r
 3. Allow the script to complete its configurations.
 4. Choose whether to configure a custom page file when prompted.
 5. Wait for the completion message.
-6. Restart your computer if necessary.
+6. Restart your computer.
 
 ==================================================
 ## IMPORTANT NOTES
 ==================================================
 
 - Administrator privileges are required.
-- Some changes may require a restart.
+- changes require a restart.
 - Existing Windows and network configurations may be modified.
 - Some settings may not be supported by every system.
-- Performance improvements are not guaranteed and depend on hardware, drivers, and network conditions.
+- Performance improvements are not 100% guaranteed and depend on hardware, drivers, and network conditions.
 
 ==================================================
 ## DISCLAIMER
